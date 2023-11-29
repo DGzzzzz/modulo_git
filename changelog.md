@@ -1,10 +1,3 @@
-A última versão (1.1.0) ainda não está disponível em Português mas nesse momento você pode lê-la em inglês e ajudar em sua tradução.
-Language: 
-1.0.0 Português do Brasil
-
-mantenha um changelog
-Não deixe seus amigos despejarem logs de commits no Changelog
-Version 1.0.0
 # Changelog
 
 All notable changes to this project will be documented in this file.
