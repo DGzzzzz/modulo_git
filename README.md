@@ -4,4 +4,5 @@
  Apresentado também o github para controle de versão.
 
  # material de apoio
+ [Modulo 2.pdf](https://github.com/DGzzzzz/modulo_git/blob/main/Modulo%202.pdf)
  
